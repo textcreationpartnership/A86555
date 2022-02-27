@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the Lord Hopton, and Sir Richard Greenvill to the Prince, and a fight in the isle of Guernsey. Also, the King of Portugals answer to a message sent unto him by Generall Blake. With a speech made to the Lord Cromwel in behalf of the Lord Mayor, aldermen, and Common-Councel of the City of London. And the last transactions in Scotland, with a letter from their declared King, their preparations for his coming to Edenburgh, and several Acts made in that Parliament, viz. 1. An Act for re-enforcing the Covenant. 2. An Act touching what hath been done at Breda. 3. An Act for levying of men. 4. An Act for levying 20000 I. Scots out of the L. Lauderdales estate. 5. An Act for setling officrs [sic] about their King. 6. An Act appointing officers of their army.</title>
+            <author>Hopton, Ralph Hopton, Baron, 1598-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86555</idno>
+            <idno type="STC">Wing H2759</idno>
+            <idno type="STC">Thomason E602_26</idno>
+            <idno type="STC">ESTC R206433</idno>
+            <idno type="EEBO-CITATION">99865595</idno>
+            <idno type="PROQUEST">99865595</idno>
+            <idno type="VID">165646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165646)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the Lord Hopton, and Sir Richard Greenvill to the Prince, and a fight in the isle of Guernsey. Also, the King of Portugals answer to a message sent unto him by Generall Blake. With a speech made to the Lord Cromwel in behalf of the Lord Mayor, aldermen, and Common-Councel of the City of London. And the last transactions in Scotland, with a letter from their declared King, their preparations for his coming to Edenburgh, and several Acts made in that Parliament, viz. 1. An Act for re-enforcing the Covenant. 2. An Act touching what hath been done at Breda. 3. An Act for levying of men. 4. An Act for levying 20000 I. Scots out of the L. Lauderdales estate. 5. An Act for setling officrs [sic] about their King. 6. An Act appointing officers of their army.</title>
+                  <author>Hopton, Ralph Hopton, Baron, 1598-1652.</author>
+                  <author>Greenville, Richard, Sir, 1600-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. and are to be sold near the Royall-Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 7.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165646:1" rendition="simple:additions"/>
+            <p>A MESSAGE SENT FROM The Lord HOPTON, and Sir <hi>Richard Greenvill</hi> to the PRINCE, and a fight in the Iſle of GUERNSEY.</p>
+            <p>ALSO, The <hi>King</hi> of <hi>Portugals</hi> Anſwer to a <hi>Meſsage</hi> ſent unto him by Generall <hi>BLAKE.</hi>
+            </p>
+            <p>WITH A Speech made to the Lord CROMWEL in be<g ref="char:EOLhyphen"/>half of the Lord Mayor, Aldermen, and Common-Councel of the City of <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> The laſt tranſactions in <hi>Scotland,</hi> With a Letter from their declared King, their preparations for his coming to <hi>Edenburgh,</hi> and ſe<g ref="char:EOLhyphen"/>veral Acts made in that Parliament, viz. 1. <hi>An Act for re-enforcing the Covenant.</hi> 2. <hi>An Act touching what hath been done at</hi> Breda. 3. <hi>An Act for levying of men.</hi> 4. <hi>An Act for levying</hi> 20000 <hi>l. Scots out of the L.</hi> Lauderdales <hi>Eſtate.</hi> 5. <hi>An Act for ſetling Officrs about their King.</hi> 6. <hi>An Act appointing Officers of their Army.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>J. C.</hi> and are to be ſold near the Royall-Exchange in <hi>Cornhill.</hi> 1650</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:165646:2"/>
+            <pb n="1" facs="tcp:165646:2"/>
+            <head>
+               <hi>The laſt proceedings of the</hi> Parliament <hi>of</hi> Scotland, <hi>and their preperation for his coming to</hi> Edenburgh, <hi>&amp;c.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Edenburgh</hi> 
+                     <date>28. <hi>May,</hi> 1650.</date>
+                  </dateline>
+               </opener>
+               <p>GReat liſtning after newes, both from the North and South, that expected from the North is, that the King (as they call him) ſhould arrive there, and come poſt to <hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi> that which they expect from the South is inteli<g ref="char:EOLhyphen"/>genc what the State poſtur and condition of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Army is, which they call ſectaries, and were they under the ſenſure of the Clargy, they would excom<g ref="char:EOLhyphen"/>municat them both out of the Church and Kingdom, for thoſe Cleargy have gotten ſo much the upper hand that if any one ſhould preſume but to diſpute uppon what they decree it is ſufficent to cauſe him to be pro<g ref="char:EOLhyphen"/>nounced heritick, and ſome of them doe ſo terify the people with the <hi>Curſe</hi> of the <hi>Kirk,</hi> that the ignorant ſort are perſwaided into a belief that if they be exco<g ref="char:EOLhyphen"/>municated either their corne will not grow, or if it grow that it wil be blaſted before harveſt, or if they are not bleſt before it is cut, it wil miſcarry er'e they get it into their barn. In the Pulpit the Alarum is al<g ref="char:EOLhyphen"/>ready taken, and therefore its time for the lay-power,
+<pb n="2" facs="tcp:165646:3"/>
+to haſten recruits for their Army: In order whereun<g ref="char:EOLhyphen"/>to the Committee at <hi>Tindall</hi> have liſted their Officers, and given out Warrants for liſting of 10000. men. It is reported they will make up them Regiments of Foot, none are more active in Parliament, and bitter in expreſſions againſt <hi>England,</hi> then the Marqueſs of <hi>Argile,</hi> but <hi>England</hi> needes not fear all the force and malice of <hi>Scotland,</hi> one Regiment of the Engliſh horſe being able to fight ſix Regiments of theſe, and there is no doubt but the North of <hi>England</hi> will aſſiſt if need were, in defence of their Countrey; for if when they came as Friends, many of them raviſhed women, de<g ref="char:EOLhyphen"/>floured Maydens, and diſpoyled men of their goods: what can be thought on them, that they wil not do, if they ſhould come as enemies. There is a Report here of great loſſes lately in Ireland, ſuſtained by the Eng<g ref="char:EOLhyphen"/>liſh, before a place called <hi>Clonmel;</hi> yet that and ſome other Gariſons are ſaid to be ſurrendred to the Engliſh, they attribute the loſſe of <hi>Clonmel</hi> to the want of pow<g ref="char:EOLhyphen"/>der and not ſtrength or reſolution in the Defendants. <hi>Hurry</hi> and the reſt of the Officers taken with him who were kept in priſon, are now brought to tryal, ſenten<g ref="char:EOLhyphen"/>ced, and condemned to dye; he ſollicits hard for his life, and promiſeth to be a conformable Covenantor for the future, if he may be ſpared, the likelier to be harkened to, for that although <hi>Montroſs</hi> was taken a<g ref="char:EOLhyphen"/>way on the ſuddain, yet if the King comes, old grudges muſt be forgotten between the malignant party, and one muſt not be known or diſtinguiſhed from the o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>A Letter is come to the Parliament of <hi>Scotland</hi> from the King, wherein he takes notice of their proceeding againſt <hi>Montroſs,</hi> and deſires to be a moderator in the
+<pb n="3" facs="tcp:165646:3"/>
+buſineſs; whereby it doth appear, that he had not re<g ref="char:EOLhyphen"/>ceived the expreſs from hence which gave him an ac<g ref="char:EOLhyphen"/>count thereof, neither had he intelligence that he was executed; this expreſs will have but a ſhort anſwer, and leſs ſatisfactory, the Parliament taking little no<g ref="char:EOLhyphen"/>tice thereof; yet are preparations formally made (as they ſay) for his Majeſties coming, and much debate hath been in the houſe about ſettleing his houſhold, a Liſt whereof was read two days ſince. They have alſo paſſed ſeveral Acts, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>An Act for re-enforcing the Covenant on all.</hi>
+                  </item>
+                  <item>2. <hi>An Act touching what hath been done by their Com<g ref="char:EOLhyphen"/>miſſioners at</hi> Breda; yet do we not hear that all things are ratified, ſo as that ſomething may not remain to be debated on.</item>
+                  <item>3. <hi>An Act for levying of men which (they ſay) are for defence of their Country only againſt any invaſion.</hi>
+                  </item>
+                  <item>4. <hi>An Act for levying the ſum of</hi> 20000 <hi>li. Scots out of the eſtate of the Lord</hi> Lauderdale, <hi>if he depart not the Kingdom at, or before the tenth of June.</hi>
+                  </item>
+                  <item>5. <hi>An Act of for ſettling of Officers about their King.</hi>
+                  </item>
+                  <item>6. <hi>An</hi> Act <hi>appointing Officers of the Army is brought in, and hath been read,</hi> with diverſe others which are not yet paſt.</item>
+               </list>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>Exeter <date>1. June 1650.</date>
+                  </dateline>
+               </opener>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>YEſterday came into this City three Companies more of foot, to continue there for deſence and ſafety of this place, the like proviſion is made for all other Garriſons in theſe parts which is a thing very needful at this time, for <hi>Hopton, Greenvil,</hi> and ſome others of greateſt eſteem amongſt the Royal party, and thoſe they ſay that have the
+<pb n="4" facs="tcp:165646:4"/>
+beſt heads and the ſtouteſt hearts are in the adjacent Iſlands of <hi>Scilly and Jerſey,</hi> waiting for an opportunity to get ſooting in <hi>England,</hi> where they hope to find many friends, and have th<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir immiſſaries filled with ſuch a ſpirit of ſedition that there is nothing ſo good and profitable for a Common-wealth, which do not contatanimate and ſubvert; but I truſt ſuch a prudent care will be had that theſe infuſers of poyſon ſhall not have power to moleſt the Common-wealth. Some Letters were intercepted this week going for <hi>Holland</hi> written in figures and cyphers, which I hope to ſend by the next when they are uncloaked. <hi>Hopton</hi> and <hi>Greenvil</hi> haue lent to the <hi>Prince,</hi> adviſing him to take heed how he truſts himſelf in <hi>Scotland,</hi> encouraging him in the affairs of <hi>Ireland,</hi> &amp;c. But let them know that notwithſtanving the L. <hi>Crumwel</hi> is come over into <hi>En<g ref="char:EOLhyphen"/>gland,</hi> yet is there one left behind (with many other very deſerving Commanders) that is able to give better Coun<g ref="char:EOLhyphen"/>ſel to the wiſeſt <hi>Prince</hi> in <hi>Chriſtendome.</hi> There be two ſtrong Garriſons delivered to the <hi>Engliſh</hi> ſince the Lord <hi>Crumwel</hi> came thence, the cheif that remain to be taken in, is <hi>Limbrick, VVaterford</hi> and <hi>Galloway.</hi> A ſhip is lately come into this harbour which brings us news, that General <hi>Blake</hi> hath ſent to the King of <hi>Portugal,</hi> deſiring to know whether his Majeſty doth own the protecting of P. <hi>Rupert</hi> within his harbour, and if ſo, then ſome reaſons are given to convince him of the unreaſonableneſs of ſuch an act, and how far it is inconſiſtent with the honor and re<g ref="char:EOLhyphen"/>putation of Kings to ſhelter Rebels and Traytors; There<g ref="char:EOLhyphen"/>fore his requeſt to that King is, that a day may be prefixed at which time P. <hi>Rupert</hi> and his Fleet may be forced out to Sea. To which the ſaid King gave anſwer, that he would take ſome time to conſider thereof, and to conſult with his Councell about it. General <hi>Popham</hi> is now joyned with
+<pb n="5" facs="tcp:165646:4"/>
+General <hi>Blake,</hi> and our men want nothing but opportuni<g ref="char:EOLhyphen"/>ty to fight with the enemy; they were at the firſt going out victualled for ſeven months, and have had ſupplies of mo<g ref="char:EOLhyphen"/>ny and freſh victual ſince they were out, a ſmall Veſſel be<g ref="char:EOLhyphen"/>longing to <hi>Jerſey</hi> Iſland, was lately taken by one of our Frigots, the priſe is worth little in it ſelf, but great by way of prevention of miſcheif, of which ſhe had a great ſhare. The report goes that the Governor of <hi>Gernſey</hi> hath laid ſiege againſt the Caſtle in that Iſle, which hath long ſtood out againſt the Parliament; the enemy within made one ſalley forth, and were gallantly repulſed and beaten in a<g ref="char:EOLhyphen"/>gaine, withe the loſs of <hi>5.</hi> men; the Caſtle is very ſtrong and well victualled, many breaches are made in the walls, and it is thought we ſhall ſtorm it within few days, I pray let me hear from you by the next, and ſend me what news you have. A gentleman which came from <hi>London,</hi> tells me us that you are liſting Auxillaries, and that the City will raiſe a Brigarde of horſe for defence thereof; which if ſo will be good for their own ſafety, and excel in the example.</p>
+               <closer>
+                  <signed>Your aſſured friend,
+<hi>T. S.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from a Gentleman in <hi>London,</hi> to his Friend in the Countrey.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ACcording to my promiſe I ſhall ſend you what newes is ſtirring here. This week the Lord <hi>Mayor</hi> and <hi>Aldermen</hi> of the City of <hi>London,</hi> viſited the Lord <hi>Cromwel</hi> at his Lodgings near <hi>White-Hall,</hi> and the <hi>Recorder</hi> not being well in health, Mr. <hi>Sad<g ref="char:EOLhyphen"/>ler</hi>
+                  <pb n="6" facs="tcp:165646:5"/>
+the Town-Clark of the City, made a Speech, acknowledging Gods great mercy in carrying his Excellency through ſo many difficulties in <hi>Ireland,</hi> and bringing him victoriouſly hither again, <hi>&amp;c.</hi> Vnto which his Lordſhip made a modeſt reply, returning the praiſe and glory thereof to God alone; after which his Excellency and the Lord <hi>Mayor</hi> had ſome ſhort diſcourſe in private, and ſo parted with many ſweet expreſſions of mutual love to the great grief and ſorrow of the common Enemy, who loving innovation, dare interpriſs any thing to make them owners of their deſires, and reſting in that mind they con<g ref="char:EOLhyphen"/>ſpire againſt the proſperity of good men, cloaking their vice with the vaſhneſs and fury of the people, of which flame if it ſhould not be quenched in time, might come great miſchief.</p>
+               <p>The <hi>Parliament</hi> hath ſpent ſome time in debating the way and time for bringing in a new and equal Repreſentative, as likewiſe a<g ref="char:EOLhyphen"/>bout an additional and more effectual Act then the former, for the relief of Creditors and Priſoners, in which there will be ſtrong provi<g ref="char:EOLhyphen"/>ſion made, that he that hath wherewith to pay, ſhall not by yielding his Body, ſave his Eſtate, nor he that hath not any goods to ſatisfie, ſuffer perpetual impriſonment, which hath been the utter ruine of many a man and his whole Family, which is an excellent work, and no alteration of Law, but the reſtoring of it to its original or firſt in<g ref="char:EOLhyphen"/>ſtitution. And what can be required more of them, then that the <hi>Common-wealth</hi> may be preſerved in ſafety and happineſs: and ſurely every State is happy which hath good Lawes, and doth abound in all good things as <hi>England</hi> doth, which is the happy fruit of the late peace we have enjoyed under the preſent Government.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
